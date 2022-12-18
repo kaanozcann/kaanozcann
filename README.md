@@ -9,7 +9,10 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Cyber Security  
+- 🌱 I’m currently learning Cyber Security 
+
+
+- 📫 How to reach me  kaanozcan1234@gmail.com
   
 
 <br/>  
