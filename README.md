@@ -1,3 +1,5 @@
+<img src="https://media4.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif?cid=ecf05e47hjrgdw3berzmsv7wsh5pcjqlix2ip79lvlmm0txr&rid=giphy.gif&ct=g" align="center" width="400" height="250">
+
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
