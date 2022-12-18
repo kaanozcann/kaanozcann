@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kaan, a freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Kaan, a freelance developer 👨‍💻 working since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
