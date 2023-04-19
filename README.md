@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on ...
   
 
-- 🌱 I’m currently learning Cyber Security 
+- 🌱 I’m currently learning Swift 
 
 
 - 📫 How to reach me  kaanozcan1234@gmail.com
