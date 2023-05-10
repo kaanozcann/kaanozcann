@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Swift 
 
 
-- 📫 How to reach me  kaanozcan1234@gmail.com
+- 📫 How to reach me  ozcankaan0@hotmail.com
   
 
 <br/>  
